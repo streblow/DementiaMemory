@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Dementia-Memory</string>
+    <string name="app_success_title">Success</string>
+    <string name="app_success">Phantastic, You made it!</string>
+    <string name="app_failed_title">Failed</string>
+    <string name="app_failed">Oops, You failed!</string>
+    <string name="menu_again">Again</string>
+    <string name="opt_Easy">Easy</string>
+    <string name="opt_Difficult">Difficult</string>
+    <string name="opt_Impossible">Impossible</string>
+    <string name="help_TouchCard">Touch an undisclosed card to flip.</string>
+</resources>

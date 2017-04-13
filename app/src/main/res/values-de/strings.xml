@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Demenz-Memory</string>
+    <string name="app_success_title">Erfolg</string>
+    <string name="app_success">Phantastisch, Sie haben\'s geschafft!</string>
+    <string name="app_failed_title">Fehlschlag</string>
+    <string name="app_failed">Huch, Sie haben versagt!</string>
+    <string name="menu_again">Nochmal</string>
+    <string name="opt_Easy">Leicht</string>
+    <string name="opt_Difficult">Schwer</string>
+    <string name="opt_Impossible">Unmöglich</string>
+    <string name="help_TouchCard">Berühren Sie eine verdeckte Karte, um sie aufzudecken.</string>
+</resources>
