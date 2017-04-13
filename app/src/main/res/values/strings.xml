@@ -9,4 +9,6 @@
     <string name="opt_Difficult">Difficult</string>
     <string name="opt_Impossible">Impossible</string>
     <string name="help_TouchCard">Touch an undisclosed card to flip.</string>
+    <string name="descript_card1">Card 1</string>
+    <string name="descript_card2">Card 2</string>
 </resources>

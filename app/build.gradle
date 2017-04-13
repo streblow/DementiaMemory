@@ -5,14 +5,14 @@ android {
         config {
             keyAlias 'lars.streblow'
             keyPassword 'ABr3m9QW'
-            storeFile file('D:/AndroidStudio/key.jks')
+            storeFile file('/home/streblow/AndroidStudioProjects/key.jks')
             storePassword 'ABr3m9QW'
         }
     }
     compileSdkVersion 25
     buildToolsVersion "25.0.2"
     defaultConfig {
-        applicationId "de.streblow.seniormemory"
+        applicationId "de.streblow.dementiamemory"
         minSdkVersion 14
         targetSdkVersion 25
         versionCode 1

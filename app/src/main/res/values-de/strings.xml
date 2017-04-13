@@ -10,4 +10,6 @@
     <string name="opt_Difficult">Schwer</string>
     <string name="opt_Impossible">Unmöglich</string>
     <string name="help_TouchCard">Berühren Sie eine verdeckte Karte, um sie aufzudecken.</string>
+    <string name="descript_card1">Karte 1</string>
+    <string name="descript_card2">Karte 2</string>
 </resources>

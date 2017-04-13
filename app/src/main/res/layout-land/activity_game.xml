@@ -28,7 +28,7 @@
             android:onClick="touchCard1"
             android:scaleType="centerInside"
             android:src="@drawable/card_back"
-            android:contentDescription="card 1" />
+            android:contentDescription="@string/descript_card1" />
 
         <ImageView
             android:id="@+id/card2"
@@ -39,7 +39,7 @@
             android:onClick="touchCard2"
             android:scaleType="centerInside"
             android:src="@drawable/card_back"
-            android:contentDescription="card 2" />
+            android:contentDescription="@string/descript_card2" />
 
         </LinearLayout>
 
