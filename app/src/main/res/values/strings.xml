@@ -5,10 +5,11 @@
     <string name="app_failed_title">Failed</string>
     <string name="app_failed">Oops, You failed!</string>
     <string name="menu_again">Again</string>
-    <string name="opt_Easy">Easy</string>
-    <string name="opt_Difficult">Difficult</string>
-    <string name="opt_Impossible">Impossible</string>
+    <string name="opt_Easy">Heavy dementia mode</string>
+    <string name="opt_Difficult">Dementia mode</string>
+    <string name="opt_Impossible">Wise guy mode</string>
     <string name="help_TouchCard">Touch an undisclosed card to flip.</string>
     <string name="descript_card1">Card 1</string>
     <string name="descript_card2">Card 2</string>
+    <string name="btn_back">Back to difficulty selection</string>
 </resources>

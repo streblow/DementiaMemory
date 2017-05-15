@@ -123,6 +123,10 @@ public class GameActivity extends AppCompatActivity {
         }
     }
 
+    public void returnToMainActivity(View v) {
+        this.finish();
+    }
+
     public void gameSuccess() {
         AlertDialog.Builder alertDialogBuilder = new AlertDialog.Builder(
                 this);

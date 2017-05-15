@@ -6,10 +6,11 @@
     <string name="app_failed_title">Fehlschlag</string>
     <string name="app_failed">Huch, Sie haben versagt!</string>
     <string name="menu_again">Nochmal</string>
-    <string name="opt_Easy">Leicht</string>
-    <string name="opt_Difficult">Schwer</string>
-    <string name="opt_Impossible">Unmöglich</string>
+    <string name="opt_Easy">Schwere-Demenz-Modus</string>
+    <string name="opt_Difficult">Demenz-Modus</string>
+    <string name="opt_Impossible">Klugscheißer-Modus</string>
     <string name="help_TouchCard">Berühren Sie eine verdeckte Karte, um sie aufzudecken.</string>
     <string name="descript_card1">Karte 1</string>
     <string name="descript_card2">Karte 2</string>
+    <string name="btn_back">Zurück zur Schwierigkeitsauswahl</string>
 </resources>
