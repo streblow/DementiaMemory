@@ -64,12 +64,23 @@ public class GameActivity extends AppCompatActivity {
 
     public void initGame() {
         if (difficulty.equalsIgnoreCase("easy")) {
-            card1Open = true;
-            card2Open = false;
+            if (Math.floor(Math.random() * 2.0) == 0) {
+                card1Open = true;
+                card2Open = false;
+            } else {
+                card1Open = false;
+                card2Open = true;
+            }
             ImageView view = (ImageView)findViewById(R.id.card1);
-            view.setImageResource(R.drawable.card_front);
+            if (card1Open)
+                view.setImageResource(R.drawable.card_front);
+            else
+                view.setImageResource(R.drawable.card_back);
             view = (ImageView)findViewById(R.id.card2);
-            view.setImageResource(R.drawable.card_back);
+            if (card2Open)
+                view.setImageResource(R.drawable.card_front);
+            else
+                view.setImageResource(R.drawable.card_back);
         }
         if (difficulty.equalsIgnoreCase("difficult")) {
             card1Open = false;
