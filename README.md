@@ -1,4 +1,5 @@
-# DementiaMemory
+<h1>DementiaMemory</h1>
+<hr>
 Deutsch weiter unten!<br>
 <p>
 <img src="device-2017-06-23-110000.png">
@@ -20,7 +21,8 @@ even and particularly if it is just by kidding.<br>
 So take it easy...<br>
 <br>
 <br>
-# Demenz-Memory
+<h1>Demenz-Memory</h1>
+<hr>
 <p>
 <img src="device-2017-06-23-100000.png">
 </p>
