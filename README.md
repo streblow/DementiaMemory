@@ -1,7 +1,7 @@
 <h1>DementiaMemory</h1>
 Deutsch weiter unten!<br>
 <p>
-<img src="device-2017-06-23-110000.png">
+<img src="device-2017-06-23-100000.png">
 </p>
 A nonsense memory game for Android.<br>
 You can build it with AndroidStudio or find the APK in the app folder.<br>
@@ -22,7 +22,7 @@ So take it easy...<br>
 <br>
 <h1>Demenz-Memory</h1>
 <p>
-<img src="device-2017-06-23-100000.png">
+<img src="device-2017-06-23-110000.png">
 </p>
 Ein Spa&szlig;-Memoryspiel f&uuml;r Android<br>
 Sie k&ouml;nnen es mit AndroidStudio &uuml;bersetzen, oder aber die APK im app-Ordner finden.<br>
