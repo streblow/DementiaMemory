@@ -1,5 +1,6 @@
 # DementiaMemory
 Deutsch weiter unten!<br>
+[Screenshot](device-2017-06-23-100000.png)
 <br>
 A nonsense memory game for Android.<br>
 You can build it with AndroidStudio or find the APK in the app folder.<br>
