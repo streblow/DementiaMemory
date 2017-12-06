@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/usr/local/android-sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/streblow/AndroidStudioProjects/DementiaMemory/app/build/intermediates/transforms/preDex/release/11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/streblow/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/791110d3b7299fdcaaee5c7db5d8fe65/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/streblow/AndroidStudioProjects/DementiaMemory/app/build/intermediates/transforms/preDex/release/7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/streblow/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/42e879733c4717a9fffbede654de749c/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/streblow/AndroidStudioProjects/DementiaMemory/app/build/intermediates/transforms/preDex/release/5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/streblow/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/8e82e96d58207dcd445575c64bb366f7/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/streblow/AndroidStudioProjects/DementiaMemory/app/build/intermediates/transforms/preDex/release/6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/streblow/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/66080e93200b37cc746409a884874ff5/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/streblow/AndroidStudioProjects/DementiaMemory/app/build/intermediates/transforms/preDex/release/9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/streblow/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/afcdbe0872a11a4384ea959f2c0ef381/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/streblow/AndroidStudioProjects/DementiaMemory/app/build/intermediates/transforms/preDex/release/1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/streblow/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/98b8be2d689d798bd6dd2ccbb555d592/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/streblow/AndroidStudioProjects/DementiaMemory/app/build/intermediates/transforms/preDex/release/3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/streblow/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/253a46e3eb6da4f3e5bb5054f8a33178/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/streblow/AndroidStudioProjects/DementiaMemory/app/build/intermediates/transforms/preDex/release/8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/streblow/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/8c3a7c9deb509c70dc661b6b1c8c66c6/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/streblow/AndroidStudioProjects/DementiaMemory/app/build/intermediates/transforms/preDex/release/2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/streblow/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/4153db9a3d7429a2ec8ff3b45cc36ea8/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/streblow/AndroidStudioProjects/DementiaMemory/app/build/intermediates/transforms/preDex/release/10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/usr/local/android-sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/streblow/AndroidStudioProjects/DementiaMemory/app/build/intermediates/transforms/preDex/release/12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/streblow/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/861c14429ee869666bd3b97bb41757e8/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/streblow/AndroidStudioProjects/DementiaMemory/app/build/intermediates/transforms/preDex/release/4.jar" />
+    </item>
+
+</items>
